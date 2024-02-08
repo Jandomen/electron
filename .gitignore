@@ -1,0 +1,11 @@
+node_modules/
+bower_components/
+
+dist/
+build/
+
+.env
+config.js
+
+.cache/
+.tmp/
